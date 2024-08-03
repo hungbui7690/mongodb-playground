@@ -1,0 +1,76 @@
+[
+  { "title": "Lost, The", "genre": "Thriller" },
+  { "title": "Toast", "genre": "Comedy|Drama" },
+  { "title": "12 Rounds", "genre": "Action|Thriller" },
+  {
+    "title": "Woman, a Gun and a Noodle Shop, A (San qiang pai an jing qi)",
+    "genre": "Comedy|Drama"
+  },
+  { "title": "Folies Bergere de Paris", "genre": "Comedy|Musical" },
+  { "title": "High School Confidential!", "genre": "Crime|Drama" },
+  {
+    "title": "Armour of God (Long xiong hu di)",
+    "genre": "Action|Adventure|Comedy"
+  },
+  { "title": "Dave Attell: Captain Miserable", "genre": "Comedy" },
+  { "title": "Back to the Beach", "genre": "Comedy" },
+  {
+    "title": "Clash of the Titans",
+    "genre": "Action|Adventure|Fantasy|Romance"
+  },
+  { "title": "Mexican, The", "genre": "Action|Comedy" },
+  { "title": "13 Ghosts", "genre": "Horror" },
+  { "title": "Trials of Henry Kissinger, The", "genre": "Documentary" },
+  { "title": "Bachelor, The", "genre": "Comedy|Romance" },
+  { "title": "Hit by Lightning", "genre": "Comedy|Crime|Romance" },
+  { "title": "New Wave, A", "genre": "Action|Crime" },
+  { "title": "Lianna", "genre": "Drama|Romance" },
+  { "title": "Kiss Me, Stupid", "genre": "Comedy" },
+  { "title": "Green Light", "genre": "Drama|Romance" },
+  { "title": "Saw III", "genre": "Crime|Horror|Thriller" },
+  { "title": "In the Fog (V tumane)", "genre": "Drama|War" },
+  { "title": "The Man From The Alamo", "genre": "Western" },
+  { "title": "Streamers", "genre": "Drama|War" },
+  { "title": "Panama Hattie", "genre": "Comedy|Musical" },
+  { "title": "Little Fish", "genre": "Crime|Drama|Romance|Thriller" },
+  { "title": "Kiss of the Damned", "genre": "Horror|Romance|Thriller" },
+  { "title": "Lo", "genre": "Comedy|Horror|Romance" },
+  { "title": "Death of a Salesman", "genre": "Drama" },
+  { "title": "Lawless, The", "genre": "Drama" },
+  {
+    "title": "Little Nemo: Adventures in Slumberland",
+    "genre": "Adventure|Animation|Children|Drama|Fantasy"
+  },
+  {
+    "title": "JLG/JLG (JLG/JLG - autoportrait de décembre)",
+    "genre": "Documentary|Drama"
+  },
+  { "title": "Evening Star, The", "genre": "Comedy|Drama" },
+  { "title": "Nickelodeon", "genre": "Comedy" },
+  { "title": "Classic, The (Klassikko)", "genre": "Comedy|Drama" },
+  { "title": "Zero Charisma", "genre": "Comedy|Drama" },
+  { "title": "Special Delivery", "genre": "(no genres listed)" },
+  { "title": "Reflecting Skin, The", "genre": "Drama|Horror|Thriller" },
+  { "title": "Children of Leningradsky, The", "genre": "Documentary" },
+  { "title": "Division III: Football's Finest", "genre": "Comedy|Romance" },
+  {
+    "title": "Jacqueline Susann's Once Is Not Enough",
+    "genre": "Drama|Romance"
+  },
+  { "title": "I Am Fishead", "genre": "Documentary" },
+  { "title": "Dutchman", "genre": "Drama" },
+  { "title": "Dancing Lady", "genre": "Comedy|Musical|Romance" },
+  { "title": "Primary Colors", "genre": "Comedy|Drama" },
+  { "title": "Samurai Spy (Ibun Sarutobi Sasuke)", "genre": "Action|Drama" },
+  { "title": "Closing the Ring", "genre": "Drama|Romance" },
+  {
+    "title": "Satisfaction (a.k.a. Girls of Summer)",
+    "genre": "Comedy|Drama|Romance"
+  },
+  {
+    "title": "Greater Promise, A (Iskateli Schastya)",
+    "genre": "Crime|Drama|Western"
+  },
+  { "title": "I as in Icarus (I... comme Icare)", "genre": "Thriller" },
+  { "title": "Go-Getter, The", "genre": "Comedy|Drama" }
+]
